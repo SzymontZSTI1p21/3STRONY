@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
-    padding: 0;
+    padding: 0;    
     background: #333;
 }
 
@@ -45,4 +45,19 @@ footer {
     padding: 5px;
     border-top: 1px solid #ddd;    
     font-weight: bolder;
+}
+
+main{
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+    background: #e0e0e0;
+    border-radius: 60px;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+img{
+    margin-top: 20px;
+    border-radius: 20px
 }
